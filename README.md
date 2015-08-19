@@ -21,12 +21,12 @@ The project setup steps are target for a Linux Ubuntu VirtualBox VM, but with so
 #Usage/Setup Instructions
 1. From command line retrieve project from GitHub
 	* git clone https://github.com/DEV3L/python-behave-sandbox.git
-2. Create a Python virtualenv for this project
+2. (OPTION A) Create a Python virtualenv for this project
     * mkvirtualenv python-behave-sandbox
 3. Install behave
     * <http://pythonhosted.org/behave/install.html>
     * pip install behave
-2a. From Pycharm
+4. (OPTION B) From Pycharm
     * Create a virtualenv
         * <https://www.jetbrains.com/pycharm/help/creating-virtual-environment.html>
     * From the Settings -> Project Interpreter click the "+" icon
