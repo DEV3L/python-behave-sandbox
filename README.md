@@ -26,3 +26,9 @@ The project setup steps are target for a Linux Ubuntu VirtualBox VM, but with so
 3. Install behave
     * <http://pythonhosted.org/behave/install.html>
     * pip install behave
+2a. From Pycharm
+    * Create a virtualenv
+        * <https://www.jetbrains.com/pycharm/help/creating-virtual-environment.html>
+    * From the Settings -> Project Interpreter click the "+" icon
+        * Search for "behave"
+        * Click the Install Package button
