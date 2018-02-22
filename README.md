@@ -33,7 +33,7 @@ The project setup steps are target for a Linux Ubuntu VirtualBox VM, but with so
         * Search for "behave"
         * Click the Install Package button
 
-#Run Instructions
+# Run Instructions
 ```
 # From command line within project source directory
 workon python-behave-sandbox
